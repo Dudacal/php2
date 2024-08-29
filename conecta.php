@@ -3,8 +3,8 @@
  if(!$conexao) {
     die("Falhou! Erro: " . mysqli_connect_error());
  }
- echo "Conectado com sucesso!";
- $mysqli_
+ /*echo "Conectado com sucesso!";
+ $mysqli_*/
 
   
 
